@@ -1,0 +1,5 @@
+https://sites.google.com/site/tallerdesarrollodesoftware/herencia-en-c
+https://www.codingame.com/playgrounds/50747/herencia-en-c-practica-3/concepto-de-herencia
+https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_C%2B%2B/Herencia#USANDO_MIEMBROS_PROTEGIDOS.
+https://parzibyte.me/blog/2019/06/19/herencia-clases-cpp/
+https://www.codingame.com/playgrounds/50747/herencia-en-c-practica-3/composicion-de-clases

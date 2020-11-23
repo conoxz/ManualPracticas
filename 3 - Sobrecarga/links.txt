@@ -1,0 +1,3 @@
+https://docs.microsoft.com/es-es/cpp/cpp/function-overloading?view=msvc-160
+http://www.w3big.com/es/cplusplus/cpp-overloading.html
+https://www.codingame.com/playgrounds/50577/miembros-especiales-de-la-clase-en-c-practica-2/operadores-sobrecargados

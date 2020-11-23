@@ -1,0 +1,8 @@
+http://www.cplusplus.com/doc/tutorial/dynamic/
+
+https://blog.martincruz.me/2012/09/obtener-numeros-aleatorios-en-c-rand.html
+
+https://www.geeksforgeeks.org/delete-in-c/
+
+http://c.conclase.net/edd/
+
